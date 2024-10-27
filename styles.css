@@ -14,4 +14,7 @@ h1 {
   width: 100px;
   height: 100px;
   background-color: lightpink;
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
 }
