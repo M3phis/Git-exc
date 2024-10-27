@@ -5,3 +5,13 @@ html {
 h1 {
   color: whitesmoke;
 }
+
+.ball {
+  margin: auto;
+
+  border-radius: 50%;
+
+  width: 100px;
+  height: 100px;
+  background-color: lightpink;
+}
