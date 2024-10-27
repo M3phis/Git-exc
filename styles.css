@@ -2,7 +2,7 @@ html {
   background-color: black;
 }
 
-h1 {
+body {
   color: whitesmoke;
 }
 
@@ -17,4 +17,6 @@ h1 {
   text-align: center;
   font-size: 22px;
   font-weight: bold;
+
+  transition: 1s;
 }
